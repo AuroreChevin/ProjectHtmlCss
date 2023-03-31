@@ -567,15 +567,12 @@ ELEVENTH BANDEAU
     align-content: flex-end;
 }
 
-.bandeau__imgblock__title__logo {
+
+
+.bandeau__imgblock__title>img {
     width: 32px;
     height: 32px;
     margin: 20px 20px 10px;
-}
-
-.bandeau__imgblock__title>img {
-    width: 439px;
-    height: 608px;
 }
 
 .bandeau__imgblock__title>h1 {
