@@ -566,9 +566,6 @@ ELEVENTH BANDEAU
     z-index: 2;
     align-content: flex-end;
 }
-
-
-
 .bandeau__imgblock__title>img {
     width: 32px;
     height: 32px;
@@ -582,7 +579,9 @@ ELEVENTH BANDEAU
     margin: 20px 20px 10px;
     font-size: 24px;
 }
-
+.textBlock>H2{
+    font-size: 24px;
+}
 .subtitle {
     color: white;
     font-family: SansSerifFont, sans-serif;
@@ -590,7 +589,13 @@ ELEVENTH BANDEAU
     margin: 20px 10px 10px;
     font-size: 0.8rem;
 }
-
+.bandeau__imgblock__title>ul>li>h2{
+    color: white;
+    font-family: SansSerifFont, sans-serif;
+    left: 10px;
+    margin: 10px 20px 10px;
+    font-size: 0.8rem;
+}
 .date {
     color: #777;
     font-family: SansSerifFont, sans-serif;
